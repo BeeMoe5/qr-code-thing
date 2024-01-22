@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "qr-code-thing"
+version = "0.1.0"
+description = ""
+authors = ["BeeMoe5 <48176165+BeeMoe5@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "qr_code_thing"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+qrcode = "^7.4.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
