@@ -1,2 +1,2 @@
 # qr-code-thing
-messing with qr code stuff
+playing around with QR codes, using [OpenCV](https://github.com/opencv/opencv-python) and [qrcode](https://github.com/lincolnloop/python-qrcode).
